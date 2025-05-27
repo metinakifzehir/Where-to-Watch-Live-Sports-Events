@@ -1,0 +1,27 @@
+2025-05-27;03:30;Oklahoma City Thunder;Minnesota Timberwolves;S Sport 2;NBA;NBA Konferans Finaller;https://tvplus.com.tr/izle/kanal/11
+2025-05-27;15:00;PREMIER PADEL;BUENOS AIRES;ott;;Tenis Maçları;https://www.todtv.com.tr/mac-detay/premier-padel-buenos-aires27052025?autoplay=True
+2025-05-27;21:30;EINTRACHT BRAUNSCHWEIG;1. FC SAARBRÜCKEN;beIN SPORTS 4;2. Bundesliga;2. Bundesliga;https://www.todtv.com.tr/mac-detay/eintracht-braunschweig-1-fc-saarbrucken27052025?autoplay=True
+2025-05-28;03:00;New York Knicks;Indiana Pacers;S Sport 2;NBA;NBA Konferans Finaller;https://tvplus.com.tr/izle/kanal/11
+2025-05-28;03:30;Botafogo;Universidad de Chile;S Sport 2;Copa Libertadores;Copa Libertadores;https://tvplus.com.tr/izle/kanal/170
+2025-05-29;01:00;Internacional;Baha;S Sport 2;Copa Libertadores;Copa Libertadores;https://tvplus.com.tr/izle/kanal/170
+2025-05-29;03:30;Oklahoma City Thunder;Minnesota Timberwolves;S Sport 2;NBA;NBA Konferans Finaller;https://tvplus.com.tr/izle/kanal/11
+2025-05-29;20:00;Solwie Energy Fatih Karagümrük;Teksüt Bandırmaspor;BeIN SPORTS 2;Trendyol 1. Lig;Trendyol 1. Lig;https://www.todtv.com.tr/mac-detay/solwie-energy-fatih-karagumruk-teksut-bandirmaspor29052025?autoplay=True
+2025-05-29;21:30;STADE DE REIMS;FC METZ;beIN SPORTS 4;Ligue 1;Ligue 1;https://www.todtv.com.tr/mac-detay/stade-de-reims-fc-metz29052025?autoplay=True
+2025-05-30;03:00;New York Knicks;Indiana Pacers;S Sport 2;NBA;NBA Konferans Finaller;https://tvplus.com.tr/izle/kanal/11
+2025-05-30;03:30;Fluminense;Once Caldas;S Sport 2;Copa Sudamericana;Copa Sudamericana;https://tvplus.com.tr/izle/kanal/170
+2025-05-30;10:55; İspanya Grand Prix;Antrenman Seansı;beIN SPORTS 4;Formula 3;Formula 3;https://www.todtv.com.tr/mac-detay/formula-3-ispanya-grand-prix-300520251?autoplay=True
+2025-05-30;12:05; İspanya Grand Prix;Antrenman Seansı;beIN SPORTS 4;Formula 2;Formula 2;https://www.todtv.com.tr/mac-detay/formula-2-ispanya-grand-prix300520251?autoplay=True
+2025-05-30;14:30; İspanya Grand Prix;1. Antrenman Seansı;beIN SPORTS 4;Formula 1;Formula 1;https://www.todtv.com.tr/mac-detay/formula-1-ispanya-grand-prix300520251?autoplay=True
+2025-05-30;16:00; İspanya Grand Prix;Sıralama Turları;beIN SPORTS 4;Formula 3;Formula 3;https://www.todtv.com.tr/mac-detay/formula-3-ispanya-grand-prix300520252?autoplay=True
+2025-05-30;16:55; İspanya Grand Prix;Sıralama Turları;beIN SPORTS 4;Formula 2;Formula 2;https://www.todtv.com.tr/mac-detay/formula-2-ispanya-grand-prix300520252?autoplay=True
+2025-05-30;18:00; İspanya Grand Prix;2. Antrenman Seansı;beIN SPORTS 4;Formula 1;Formula 1;https://www.todtv.com.tr/mac-detay/formula-1-ispanya-grand-prix-300520252?autoplay=True
+2025-05-31;03:30;Oklahoma City Thunder;Minnesota Timberwolves;S Sport 2;NBA;NBA Konferans Finaller;https://tvplus.com.tr/izle/kanal/11
+2025-05-31;10:05; İspanya Grand Prix;Sprint Yarışı;beIN SPORTS 4;Formula 3;Formula 3;https://www.todtv.com.tr/mac-detay/formula-3-ispanya-grand-prix-310520253?autoplay=True
+2025-05-31;13:30; İspanya Grand Prix;3. Antrenman Seansı;beIN SPORTS 4;Formula 1;Formula 1;https://www.todtv.com.tr/mac-detay/formula-1-ispanya-grand-prix310520253?autoplay=True
+2025-05-31;15:15; İspanya Grand Prix;Sprint Yarışı;beIN SPORTS 4;Formula 2;Formula 2;https://www.todtv.com.tr/mac-detay/formula-2-ispanya-grand-prix-310520253?autoplay=True
+2025-05-31;17:00; İspanya Grand Prix;Sıralama Turları;beIN SPORTS 4;Formula 1;Formula 1;https://www.todtv.com.tr/mac-detay/formula-1-ispanya-grand-prix-310520254?autoplay=True
+2025-06-01;03:00;New York Knicks;Indiana Pacers;S Sport 2;NBA;NBA Konferans Finaller;https://tvplus.com.tr/izle/kanal/11
+2025-06-01;09:30; İspanya Grand Prix;Yarış;beIN SPORTS 4;Formula 3;Formula 3;https://www.todtv.com.tr/mac-detay/formula-3-ispanya-grand-prix010620254?autoplay=True
+2025-06-01;11:00; İspanya Grand Prix;Yarış;beIN SPORTS 4;Formula 2;Formula 2;https://www.todtv.com.tr/mac-detay/formula-2-ispanya-grand-prix010620254?autoplay=True
+2025-06-01;16:00; İspanya Grand Prix;Yarış;beIN SPORTS 4;Formula 1;Formula 1;https://www.todtv.com.tr/mac-detay/formula-1-ispanya-grand-prix010620255?autoplay=True
+2025-06-02;03:00;Oklahoma City Thunder;Minnesota Timberwolves;S Sport 2;NBA;NBA Konferans Finaller;https://tvplus.com.tr/izle/kanal/11
